@@ -2,7 +2,7 @@
 
 ## Chain-of-Thought Distillation for Efficient Mathematical Reasoning
 
-This repository contains the final project for **STAT GR5293 GenAI**. The project studies chain-of-thought (CoT) distillation for mathematical reasoning using the GSM8K dataset and a Qwen2.5-3B-Instruct student model.
+The project studies chain-of-thought (CoT) distillation for mathematical reasoning using the GSM8K dataset and a Qwen2.5-3B-Instruct student model.
 
 The main goal is to compare three training formats:
 
